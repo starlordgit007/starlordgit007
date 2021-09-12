@@ -1,0 +1,4 @@
+- 👋 Hi, I’m sanket shete
+- 🌱 I’m currently learning about microservices, docker and kubernets.
+- 💞️ I’m looking to collaborate on projects built using .Net
+- 📫 You can reach me at sanketshete3@gmail.com
